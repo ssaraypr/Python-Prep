@@ -6,7 +6,8 @@
 # 1) Crear una lista que contenga nombres de ciudades del mundo que contenga más de 5 elementos e imprimir por pantalla
 
 # In[3]:
-
+ciudades = ["barranquilla","cartagena"]
+print(ciudades)
 
 
 
